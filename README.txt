@@ -1,0 +1,1 @@
+Vendos fotot ne assets/images dhe muziken ne assets/music.
