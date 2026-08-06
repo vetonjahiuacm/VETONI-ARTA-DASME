@@ -1,0 +1,8 @@
+body{margin:0;font-family:Arial,sans-serif;background:#faf7f2;color:#333}
+.hero{height:100vh;background:url('../images/photo1.jpg') center/cover;display:flex;align-items:center;justify-content:center}
+.overlay{background:rgba(0,0,0,.45);padding:30px;border-radius:12px;color:#fff;text-align:center}
+.btn{display:inline-block;background:#c9a227;color:#fff;padding:12px 24px;text-decoration:none;border-radius:30px}
+section{max-width:900px;margin:auto;padding:30px}
+.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+.gallery img{width:100%;border-radius:10px}
+input,button{display:block;width:100%;padding:10px;margin:10px 0}
